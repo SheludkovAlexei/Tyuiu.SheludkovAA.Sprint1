@@ -11,7 +11,7 @@ namespace Tyuiu.SheludkovAA.Sprint1.Task0.V0.Lib
     {
         public double Calculate()
         {
-            return (3 / 6 - 4) * 3;
+            return 10 / (2 + 3);
         }
 
     }
