@@ -16,8 +16,8 @@ namespace Tyuiu.SheludkovAA.Sprint1.Task1.V26
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #10                                                             *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #26                                                            *");
             Console.WriteLine("* Выполнил: Шелудков А. А. | АСОиУб-23-1                                  *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
