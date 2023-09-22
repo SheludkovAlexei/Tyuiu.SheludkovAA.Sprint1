@@ -8,7 +8,7 @@ namespace Tyuiu.SheludkovAA.Sprint1.Task3.V0.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidExpressions()
         {
             DataService ds = new DataService();
             double x = 10;
