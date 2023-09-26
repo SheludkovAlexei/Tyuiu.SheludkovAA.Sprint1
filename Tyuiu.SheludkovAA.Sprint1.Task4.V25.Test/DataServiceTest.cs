@@ -11,8 +11,8 @@ namespace Tyuiu.SheludkovAA.Sprint1.Task4.V25.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double x = 0.79;
-            double wait = 0.587;
+            double x = 0.017;
+            double wait = 0.5;
             var res = ds.Calculate(x);
             Assert.AreEqual(wait, res);
         }
